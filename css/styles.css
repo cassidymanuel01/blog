@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&family=Titillium+Web:ital,wght@0,200;1,200&display=swap');
+
+
+#navbarr{
+    color: lightcoral;
+    position: sticky;
+    background: white
+          /* bottom, image */ 
+      url(../images/purple-aesthetic-upside-down-city-rqg98van1j9i2a65.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+      overflow-x: hidden;
+}
+
+#navbarrNav{
+    display: flex;
+    justify-content: center
+}
+
+  .nav-link {
+    color: white;
+    font-size: 20px;
+  }
+
+  .navbar-toggler{
+      color: white;
+  }
+
+  .navbar-toggler-icon{
+      color: white;
+  }
+
+  .landing h1 {
+    font-family: 'Satisfy';
+    font-size: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   color: rgb(52, 3, 98);
+  }
+
+
+  #about h1 {
+    font-family: 'Satisfy';
+    font-size: 4em;
+    color: rgb(52, 3, 98);
+  }
+
+  .about-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    overflow-x: hidden;
+  }
+
+  
+
+
+
+
